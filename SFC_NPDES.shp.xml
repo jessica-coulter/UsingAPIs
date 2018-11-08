@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20181108</CreaDate><CreaTime>15511100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\JSONToFeatures" Date="20181108" Time="155111">JSONToFeatures C:\Users\jmc119\AppData\Local\Temp\2fb62316c8cb412da0274a5a3b66de6d.json .\SFC_NPDES.shp Polygon</Process></lineage></DataProperties></Esri></metadata>
